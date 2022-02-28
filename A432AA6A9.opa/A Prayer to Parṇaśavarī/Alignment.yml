@@ -1,0 +1,19 @@
+segment_sources:
+  PB93F2AE3:
+    type: origin_type
+    relation: translation
+    language: en
+  PBCFFF7D9:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  4454075357af4344a1a176c4a793779c:
+    PB93F2AE3: fd5fb7552cfe4198b0653c30e3273cfc
+    PBCFFF7D9: 1f0614cd55b74808ac38bf96eb76c9a7
+  bd1d5aafd0684c099245ae0752c22969:
+    PB93F2AE3: 9c20eee249f349698a4a6af7454ac183
+    PBCFFF7D9: ad6acb1e632e4b1d94e09cc4104e8de8
+  fc76e5fd9fef467db85c563d5863de03:
+    PB93F2AE3: 187c1268a0f146acb6de853224775852
+    PBCFFF7D9: 9decf2dd1a6640939d0ddc69737378bd
